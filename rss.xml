@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Muski frizerski salon I.K.S.</title>
+		<link>index.html</link>
+		<description>
+		Osetite neverovatno iskustvo i preciznost koju nude nasi stajlisti
+		</description>
+		<item>
+			<title>Muski frizerski salon I.K.S. | Galerija</title>
+			<link>galerija.html</link>
+			<description>Pogledajte nasu galeriju frizura</description>
+		</item>
+	</channel>
+</rss>
